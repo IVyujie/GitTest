@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6462aadf-45a2-439a-9f45-6760cfe45d74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/META-INF/java_basic_practice.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/MyInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/MyInterface2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/ReflectDynamicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/ReflectOperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/ReflectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_basic_practice/reflect/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/MyInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/ReflectDynamicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/ReflectOperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="6462aadf-45a2-439a-9f45-6760cfe45d74" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/reflect/ReflectDynamicTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="384">
+              <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,6 +118,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="IV" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -300,12 +277,20 @@
       <workItem from="1581311245722" duration="600000" />
       <workItem from="1581313555305" duration="584000" />
       <workItem from="1581390040437" duration="7776000" />
-      <workItem from="1581562480175" duration="281000" />
+      <workItem from="1581562480175" duration="777000" />
     </task>
+    <task id="LOCAL-00001" summary="commit_test_01">
+      <created>1581562883970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581562883970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12936000" />
+    <option name="totallyTimeSpent" value="13432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -348,6 +333,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit_test_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_test_01" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/reflect/MyInterface.java">
@@ -417,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reflect/ReflectDynamicTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="384">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
